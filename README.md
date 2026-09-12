@@ -5,8 +5,8 @@
 ## What I'm building
 
 - **HMS (Hammad Marketing System)** — a multi-tenant SaaS platform for dental clinic marketing agencies. Next.js/NestJS web stack, a Flutter mobile app, and AI-assisted content workflows, built RTL/Arabic-first.
-- **Dentology Admin** — a Flutter mobile app and web dashboard for a dentistry courses platform, with separate admin and instructor experiences.
 - Paid social and ad campaigns (Meta, TikTok) for dental clinics across Egypt, with Arabic-first creative and targeting.
+- **Dentology ** — a Flutter mobile app and web dashboard for a dentistry courses platform, with separate admin and instructor experiences.
 
 ## Tech I work with
 
